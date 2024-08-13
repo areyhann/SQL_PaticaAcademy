@@ -1,0 +1,2 @@
+# SQL_PaticaAcademy
+Ödevler
